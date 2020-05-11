@@ -22,3 +22,15 @@ def three_sum(s):
 
 nums = [-1, 0, 1, 2, -1, -4]
 print(three_sum(nums))
+
+"""
+Variable        |       Value
+s               |       [-1, 0, 1, 2, -1, -4]
+output          |       {[-1, -1, 2], [-1, 0, 1]}
+k               |       5
+target          |       -2
+i               |       6
+j               |       5
+sum_two         |       3
+return value    |       {[-1, -1, 2], [-1, 0, 1]}
+"""

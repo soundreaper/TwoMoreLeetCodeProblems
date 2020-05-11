@@ -15,3 +15,13 @@ def longestPalindrome(s):
 
 input = "babad"
 print(longestPalindrome(input))
+
+"""
+Variable        |       Value
+s               |       "babad"
+m               |       "bab"
+i               |       4
+j               |       5
+                |
+return value    |       "bab"
+"""
